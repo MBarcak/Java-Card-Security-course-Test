@@ -1,0 +1,10 @@
+#package specification
+#Fri Apr 03 23:16:46 ULAT 2020
+masktools-version=2.2
+sampleLoyalty-major=1
+sampleLoyalty-base=internal
+sampleLoyalty-minor=0
+sampleLoyalty-aid=2233445566
+jcop-packages=sampleLoyalty
+sampleLoyalty.JavaLoyalty-aid=223344556601
+sampleLoyalty-clazzes=sampleLoyalty.JavaLoyaltyInterface sampleLoyalty.JavaLoyalty

@@ -1,0 +1,10 @@
+#package specification
+#Fri Apr 03 23:16:47 ULAT 2020
+purse-minor=0
+masktools-version=2.2
+purse-clazzes=purse.CyclicFile purse.Purse
+jcop-packages=purse
+purse-aid=1122334455
+purse-major=1
+purse.Purse-aid=112233445501
+purse-base=internal
